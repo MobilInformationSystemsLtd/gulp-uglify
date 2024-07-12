@@ -5,16 +5,16 @@
   "author": "Terin Stock <terinjokes@gmail.com>",
   "bugs": "https://github.com/terinjokes/gulp-uglify/issues",
   "dependencies": {
-    "array-each": "^1.0.1",
-    "extend-shallow": "^3.0.2",
-    "gulplog": "^1.0.0",
-    "has-gulplog": "^0.1.0",
-    "isobject": "^3.0.1",
-    "make-error-cause": "^1.1.1",
-    "safe-buffer": "^5.1.2",
+    "array-each": "1.0.1",
+    "extend-shallow": "3.0.2",
+    "gulplog": "1.0.0",
+    "has-gulplog": "0.1.0",
+    "isobject": "3.0.1",
+    "make-error-cause": "1.2.2",
+    "safe-buffer": "5.1.2",
     "through2": "^2.0.0",
-    "uglify-js": "^3.0.5",
-    "vinyl-sourcemaps-apply": "^0.2.0"
+    "uglify-js": "3.17.4",
+    "vinyl-sourcemaps-apply": "0.2.1"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
